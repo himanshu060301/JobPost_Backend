@@ -19,7 +19,7 @@ import springfox.documentation.annotations.ApiIgnore;
 
 
 @RestController
-@CrossOrigin(origins="https://jobpost-backend.onrender.com")
+@CrossOrigin(origins="https://jobpost-frontend.onrender.com")
 public class PostController {
 	
 	@Autowired
