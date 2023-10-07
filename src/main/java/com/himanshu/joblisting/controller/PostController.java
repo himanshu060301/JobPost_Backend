@@ -19,7 +19,7 @@ import springfox.documentation.annotations.ApiIgnore;
 
 
 @RestController
-@CrossOrigin(origins="http://localhost:3000")
+@CrossOrigin(origins="https://startling-lokum-9690a6.netlify.app/")
 public class PostController {
 	
 	@Autowired
